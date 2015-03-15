@@ -1,5 +1,5 @@
 # WordFinder
-WordFinder is a standalone Java GUI application (using Swing) that allows a user to search the data provided by the WordNet project. WordNet is an application that provides dictionary-type data. The data consists of a set of terms, and each term has a part of speech and a definition. WordFinder is available for free (the link is at the bottom of this page), and offers a number of options for searching:
+WordFinder is a standalone Java GUI application (using Swing) that allows a user to search the data provided by the WordNet project. WordNet is an application that provides dictionary-type data. The data consists of a set of terms, and each term has a part of speech and a definition. WordFinder offers a number of options for searching:
 
 * Wildcard searches (using '*' and '%')
 * Soundex (words that sound similar)
