@@ -7,6 +7,8 @@ WordFinder is a standalone Java GUI application (using Swing) that allows a user
 * Contains
 * Anagram
 
+![WordFinder](http://argonium.github.io/wf.png)
+
 The first two search modes reuse the code featured elsewhere on this web site. A wildcard search means the '\*' and '%' characters have a special meaning: '\*' means to match any string of consecutive characters (zero or more), and '%' means to match any one character. A Soundex search means to match on words that sound similar. A regular expression search means to allow the use of regular expressions in the search term. If you don't know what a regular expression is, don't use this option.
 
 One useful feature of this application is the ability to search based on not just a term, but also include a word or phrase from the term's definition. This can be helpful if, say, you're solving a crossword puzzle, and want to include a word from the puzzle clue in the definition search.
